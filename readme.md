@@ -8,30 +8,12 @@
 
 ## Installation
 
-**Laravel 5.5+ comes with this package**. If you are using Laravel 5.5 or greater, you **do not** need to add this to your project separately.
-
-* [Laravel 5.5](https://laravel.com/docs/5.5/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:~3.3`)
-* [Laravel 5.6](https://laravel.com/docs/5.6/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.0`)
-* [Laravel 5.7](https://laravel.com/docs/5.7/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.0`)
-* [Laravel 5.8](https://laravel.com/docs/5.8/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.0`)
-* [Laravel 6.x](https://laravel.com/docs/6.x/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.0`)
-* [Laravel 7.x](https://laravel.com/docs/7.x/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.2`)
-* [Laravel 8.x](https://laravel.com/docs/8.x/requests#configuring-trusted-proxies) Docs (`fideloper/proxy:^4.3`)
-* [Laravel 9.x](https://laravel.com/docs/9.x/requests#configuring-trusted-proxies) Docs (**Don't use this package**. [Explanation here](https://github.com/fideloper/TrustedProxy/issues/152), [Upgrade docs here](https://laravel.com/docs/9.x/upgrade))
-
-### Laravel 5.0 - 5.4
-
 To install Trusted Proxy, use:
 
 ```
-composer require fideloper/proxy:^3.3
+composer require godscodes/proxy:^3.3
 ```
 
-### Laravel 4
-
-```
-composer require fideloper/proxy:^2.0
-```
 
 ## Setup
 
